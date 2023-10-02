@@ -1,0 +1,15 @@
+D:\Рoзробка С#\Lesson14\Lesson14\Decorator\bin\Debug\net6.0\Decorator.exe
+D:\Рoзробка С#\Lesson14\Lesson14\Decorator\bin\Debug\net6.0\Decorator.deps.json
+D:\Рoзробка С#\Lesson14\Lesson14\Decorator\bin\Debug\net6.0\Decorator.runtimeconfig.json
+D:\Рoзробка С#\Lesson14\Lesson14\Decorator\bin\Debug\net6.0\Decorator.dll
+D:\Рoзробка С#\Lesson14\Lesson14\Decorator\bin\Debug\net6.0\Decorator.pdb
+D:\Рoзробка С#\Lesson14\Lesson14\Decorator\obj\Debug\net6.0\Decorator.csproj.AssemblyReference.cache
+D:\Рoзробка С#\Lesson14\Lesson14\Decorator\obj\Debug\net6.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рoзробка С#\Lesson14\Lesson14\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfoInputs.cache
+D:\Рoзробка С#\Lesson14\Lesson14\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfo.cs
+D:\Рoзробка С#\Lesson14\Lesson14\Decorator\obj\Debug\net6.0\Decorator.csproj.CoreCompileInputs.cache
+D:\Рoзробка С#\Lesson14\Lesson14\Decorator\obj\Debug\net6.0\Decorator.dll
+D:\Рoзробка С#\Lesson14\Lesson14\Decorator\obj\Debug\net6.0\refint\Decorator.dll
+D:\Рoзробка С#\Lesson14\Lesson14\Decorator\obj\Debug\net6.0\Decorator.pdb
+D:\Рoзробка С#\Lesson14\Lesson14\Decorator\obj\Debug\net6.0\Decorator.genruntimeconfig.cache
+D:\Рoзробка С#\Lesson14\Lesson14\Decorator\obj\Debug\net6.0\ref\Decorator.dll
